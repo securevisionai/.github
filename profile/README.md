@@ -1,6 +1,6 @@
 ## Hola latam 👋
 
-Somos una startup que nacera para cambiar el modo de como gestionamos el sismeta de rastreo en el mundo implementando inteligencial articial.
+Somos una startup que nacera para cambiar el modo de como gestionamos el sistema de rastreo en el mundo implementando inteligencial articial.
 
 **Objetivos:**
 
