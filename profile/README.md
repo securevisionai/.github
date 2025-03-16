@@ -1,4 +1,3 @@
-# Secure Vision
 
 ## Objetivos
 
